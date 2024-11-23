@@ -25,7 +25,7 @@ Este proyecto es una aplicación web interactiva que simula un dado en 3D. Permi
 
 1. Clona o descarga este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/dado-3d.git
+   git clone https://github.com/thiagoh20/3D-Dado.git
 
 
 ## Vista Previa
