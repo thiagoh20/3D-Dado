@@ -36,7 +36,6 @@ function setRandom() {
   }
 }
 
-// Reiniciar
 
 var reset = document.getElementById("reset");
 reset.addEventListener("click", () => {

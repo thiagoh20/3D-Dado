@@ -370,24 +370,3 @@ button:hover {
   top: 14%;
   padding: 0.8vw;
 }
-
-/* .dado{
-    width: 400px;
-    height: 400px;
-    background-color: rgb(75, 75, 75);
-    border-radius: 20px;
-    box-shadow: 2px 2px 15px #000;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transition: 700ms;
-    cursor: pointer;
-}
-
-.punto{
-    width: 75px;
-    height: 75px;
-    background-color: rgb(175, 175, 175);
-    border-radius: 50%;
-    box-shadow: 1px 1px 15px rgb(20, 20, 20);
-} */
